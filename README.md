@@ -41,8 +41,6 @@ Built using **Python** and **Tkinter**, the game dynamically generates languages
    python game/language_game.py
    ```
 
-## 📷 Screenshots
-*(Add difficulty selection screen, game interface, feedback screen if available)*
 
 ## 🚀 Future Enhancements
 - Tutorial mode for new users
